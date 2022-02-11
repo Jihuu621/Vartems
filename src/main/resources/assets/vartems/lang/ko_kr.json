@@ -1,4 +1,6 @@
 {
   "item.vartems.ruby": "루비",
-  "item.vartems.raw_ruby": "루비 원석"
+
+  "block.vartems.ruby_block": "루비 블록",
+  "block.vartems.ruby_ore": "루비 원석"
 }

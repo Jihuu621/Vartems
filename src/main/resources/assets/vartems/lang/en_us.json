@@ -1,4 +1,6 @@
 {
   "item.vartems.ruby": "Ruby",
-  "item.vartems.raw_ruby": "Raw Ruby"
+
+  "block.vartems.ruby_block": "Ruby Block",
+  "block.vartems.ruby_ore": "Ruby Ore"
 }
