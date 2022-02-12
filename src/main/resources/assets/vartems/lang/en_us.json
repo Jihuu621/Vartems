@@ -1,9 +1,19 @@
 {
   "item.vartems.ruby": "Ruby",
   "item.vartems.amber": "Amber",
+  "item.vartems.topaz": "Topaz",
+  "item.vartems.peridot": "Peridot",
+  "item.vartems.larimar": "Larimar",
+  "item.vartems.rainbow_energy": "Rainbow Energy",
 
   "block.vartems.ruby_block": "Ruby Block",
   "block.vartems.ruby_ore": "Ruby Ore",
   "block.vartems.amber_block": "Amber Block",
-  "block.vartems.amber_ore": "Amber Ore"
+  "block.vartems.amber_ore": "Amber Ore",
+  "block.vartems.topaz_block": "Topaz Block",
+  "block.vartems.topaz_ore": "Topaz Ore",
+  "block.vartems.peridot_block": "Peridot Block",
+  "block.vartems.peridot_ore": "Peridot Ore",
+  "block.vartems.larimar_block": "Larimar Block",
+  "block.vartems.larimar_ore": "Larimar Ore"
 }

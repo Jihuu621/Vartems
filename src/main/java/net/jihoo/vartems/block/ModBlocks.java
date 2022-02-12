@@ -33,16 +33,52 @@ public class ModBlocks {
         CreativeModeTab.TAB_MISC);
 
     public static final RegistryObject<Block> AMBER_BLOCK =
-            registerBlock("amber_block",
-            () -> new Block(BlockBehaviour.Properties.
-            of(Material.METAL).strength(9f).requiresCorrectToolForDrops()),
-            CreativeModeTab.TAB_MISC);
+        registerBlock("amber_block",
+        () -> new Block(BlockBehaviour.Properties.
+        of(Material.METAL).strength(9f).requiresCorrectToolForDrops()),
+        CreativeModeTab.TAB_MISC);
 
     public static final RegistryObject<Block> AMBER_ORE =
-            registerBlock("amber_ore",
-            () -> new Block(BlockBehaviour.Properties.
-            of(Material.STONE).strength(5f).requiresCorrectToolForDrops()),
-            CreativeModeTab.TAB_MISC);
+        registerBlock("amber_ore",
+        () -> new Block(BlockBehaviour.Properties.
+        of(Material.STONE).strength(5f).requiresCorrectToolForDrops()),
+        CreativeModeTab.TAB_MISC);
+
+    public static final RegistryObject<Block> TOPAZ_BLOCK =
+        registerBlock("topaz_block",
+        () -> new Block(BlockBehaviour.Properties.
+        of(Material.METAL).strength(9f).requiresCorrectToolForDrops()),
+        CreativeModeTab.TAB_MISC);
+
+    public static final RegistryObject<Block> TOPAZ_ORE =
+        registerBlock("topaz_ore",
+        () -> new Block(BlockBehaviour.Properties.
+        of(Material.STONE).strength(5f).requiresCorrectToolForDrops()),
+        CreativeModeTab.TAB_MISC);
+
+    public static final RegistryObject<Block> PERIDOT_BLOCK =
+        registerBlock("peridot_block",
+        () -> new Block(BlockBehaviour.Properties.
+        of(Material.METAL).strength(9f).requiresCorrectToolForDrops()),
+        CreativeModeTab.TAB_MISC);
+
+    public static final RegistryObject<Block> PERIDOT_ORE =
+        registerBlock("peridot_ore",
+        () -> new Block(BlockBehaviour.Properties.
+        of(Material.STONE).strength(5f).requiresCorrectToolForDrops()),
+        CreativeModeTab.TAB_MISC);
+
+    public static final RegistryObject<Block> LARIMAR_BLOCK =
+        registerBlock("larimar_block",
+        () -> new Block(BlockBehaviour.Properties.
+        of(Material.METAL).strength(9f).requiresCorrectToolForDrops()),
+        CreativeModeTab.TAB_MISC);
+
+    public static final RegistryObject<Block> LARIMAR_ORE =
+        registerBlock("larimar_ore",
+        () -> new Block(BlockBehaviour.Properties.
+        of(Material.STONE).strength(5f).requiresCorrectToolForDrops()),
+        CreativeModeTab.TAB_MISC);
 
     private static <T extends Block> RegistryObject<T>
         registerBlock(String name, Supplier<T> block, CreativeModeTab tab)

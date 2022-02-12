@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "123",
+    "4  ",
+    "   "
+  ],
+  "key": {
+    "1": { "item": "vartems:ruby" },
+    "2": { "item": "vartems:amber" },
+    "3": { "item": "vartems:topaz" },
+    "4": { "item": "vartems:peridot" }
+  },
+  "result": {
+    "item": "vartems:rainbow_energy"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "vartems:topaz"
+    }
+  },
+  "result": {
+    "item": "vartems:topaz_block"
+  }
+}

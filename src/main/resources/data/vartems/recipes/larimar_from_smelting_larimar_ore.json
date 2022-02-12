@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "vartems:larimar_ore"
+  },
+  "result": "vartems:larimar",
+  "experience": 1.0,
+  "cookingtime": 200
+}

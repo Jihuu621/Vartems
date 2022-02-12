@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "vartems:block/topaz_block" }
+  }
+}

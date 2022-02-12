@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vartems:larimar_block"
+    }
+  ],
+  "result": {
+    "item": "vartems:larimar",
+    "count": 9
+  }
+}

@@ -4,6 +4,12 @@
     "vartems:ruby_ore",
     "vartems:ruby_block",
     "vartems:amber_ore",
-    "vartems:amber_block"
+    "vartems:amber_block",
+    "vartems:topaz_ore",
+    "vartems:topaz_block",
+    "vartems:peridot_ore",
+    "vartems:peridot_block",
+    "vartems:larimar_ore",
+    "vartems:larimar_block"
   ]
 }
