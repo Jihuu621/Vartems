@@ -1,6 +1,9 @@
 {
   "item.vartems.ruby": "Ruby",
+  "item.vartems.amber": "Amber",
 
   "block.vartems.ruby_block": "Ruby Block",
-  "block.vartems.ruby_ore": "Ruby Ore"
+  "block.vartems.ruby_ore": "Ruby Ore",
+  "block.vartems.amber_block": "Amber Block",
+  "block.vartems.amber_ore": "Amber Ore"
 }

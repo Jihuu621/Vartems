@@ -32,6 +32,18 @@ public class ModBlocks {
         of(Material.STONE).strength(5f).requiresCorrectToolForDrops()),
         CreativeModeTab.TAB_MISC);
 
+    public static final RegistryObject<Block> AMBER_BLOCK =
+            registerBlock("amber_block",
+            () -> new Block(BlockBehaviour.Properties.
+            of(Material.METAL).strength(9f).requiresCorrectToolForDrops()),
+            CreativeModeTab.TAB_MISC);
+
+    public static final RegistryObject<Block> AMBER_ORE =
+            registerBlock("amber_ore",
+            () -> new Block(BlockBehaviour.Properties.
+            of(Material.STONE).strength(5f).requiresCorrectToolForDrops()),
+            CreativeModeTab.TAB_MISC);
+
     private static <T extends Block> RegistryObject<T>
         registerBlock(String name, Supplier<T> block, CreativeModeTab tab)
         {
