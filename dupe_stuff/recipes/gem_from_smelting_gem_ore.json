@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "vartems:amber_ore"
+  },
+  "result": "vartems:amber",
+  "experience": 1.0,
+  "cookingtime": 200
+}
