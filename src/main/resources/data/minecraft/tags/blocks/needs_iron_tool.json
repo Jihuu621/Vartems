@@ -10,6 +10,8 @@
     "vartems:peridot_ore",
     "vartems:peridot_block",
     "vartems:larimar_ore",
-    "vartems:larimar_block"
+    "vartems:larimar_block",
+    "vartems:sapphire_ore",
+    "vartems:sapphire_block"
   ]
 }

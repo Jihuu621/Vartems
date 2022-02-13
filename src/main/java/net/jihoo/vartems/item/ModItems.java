@@ -29,6 +29,9 @@ public class ModItems {
     public static final RegistryObject<Item> LARIMAR  = ITEMS.register("larimar",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
+    public static final RegistryObject<Item> SAPPHIRE  = ITEMS.register("sapphire",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
     // Misc
 
     public static final RegistryObject<Item> RAINBOW_ENERGY  = ITEMS.register("rainbow_energy",

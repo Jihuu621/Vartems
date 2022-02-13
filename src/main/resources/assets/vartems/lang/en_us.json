@@ -4,6 +4,7 @@
   "item.vartems.topaz": "Topaz",
   "item.vartems.peridot": "Peridot",
   "item.vartems.larimar": "Larimar",
+  "item.vartems.sapphire": "Sapphire",
   "item.vartems.rainbow_energy": "Rainbow Energy",
 
   "block.vartems.ruby_block": "Ruby Block",
@@ -15,5 +16,7 @@
   "block.vartems.peridot_block": "Peridot Block",
   "block.vartems.peridot_ore": "Peridot Ore",
   "block.vartems.larimar_block": "Larimar Block",
-  "block.vartems.larimar_ore": "Larimar Ore"
+  "block.vartems.larimar_ore": "Larimar Ore",
+  "block.vartems.sapphire_block": "Sapphire Block",
+  "block.vartems.sapphire_ore": "Sapphire Ore"
 }

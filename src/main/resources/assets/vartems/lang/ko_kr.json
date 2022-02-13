@@ -4,6 +4,7 @@
   "item.vartems.topaz": "토파즈",
   "item.vartems.peridot": "페리도트",
   "item.vartems.larimar": "라리마",
+  "item.vartems.sapphire": "사파이어",
   "item.vartems.rainbow_energy": "레인보우 에너지",
 
   "block.vartems.ruby_block": "루비 블록",
@@ -15,5 +16,7 @@
   "block.vartems.peridot_block": "페리도트 블록",
   "block.vartems.peridot_ore": "페리도트 원석",
   "block.vartems.larimar_block": "라리마 블록",
-  "block.vartems.larimar_ore": "라리마 원석"
+  "block.vartems.larimar_ore": "라리마 원석",
+  "block.vartems.sapphire_block": "사파이어 블록",
+  "block.vartems.sapphire_ore": "사파이어 원석"
 }
